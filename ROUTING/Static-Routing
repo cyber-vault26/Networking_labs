@@ -1,0 +1,12 @@
+
+# This is my Main Title
+
+This is some regular text under the main title. Notice there is a blank line above this text and a blank line below it.
+
+## This is a Subtitle
+
+Here is a list of things to check in your own code:
+1. Did I put a space after the # symbol?
+2. Is the # symbol at the very start of the line (no spaces before it)?
+3. Is there a blank line above the title?Static routing 
+is the type of routing where the routes are manually configured by the admnistrator manually

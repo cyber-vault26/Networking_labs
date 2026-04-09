@@ -6,4 +6,9 @@ of vlans in the same destination
 now insteady of writing route for each network only we use the common network given to address other networks in for each vlan see the diagram
 below
 <img width="1505" height="600" alt="SummaryStaticRouting" src="https://github.com/user-attachments/assets/7077ca73-5f66-465a-974e-efef56c0d006" />
-The configuration of this are given in file named config2
+The configuration of this are given in file named [config2](https://github.com/cyber-vault26/Networking_labs/blob/main/ROUTING/config2.md)
+
+* The ouput shown after configuring and testing if the configurations cliks as clearly shown on the image below
+<img width="959" height="856" alt="ping2" src="https://github.com/user-attachments/assets/f748b5ea-68d7-47b8-8f36-7e0ea8470c0f" />
+
+
